@@ -1,0 +1,6 @@
+schema: schema.graphql
+extensions:
+  codegen:
+    src/index.ts:
+      - add: '/* tslint: disable */'
+      - typescript

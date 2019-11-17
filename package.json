@@ -9,7 +9,7 @@
   "dependencies": {
     "@graphql-codegen/add": "1.8.3",
     "@graphql-codegen/typescript": "1.8.3",
-    "@test-graphql-cli/codegen": "^4.0.0-alpha.26",
+    "@test-graphql-cli/codegen": "^2.2.1-alpha-dca1d95.425",
     "graphql": "^14.5.8",
     "graphql-cli": "^2.2.1-alpha-dca1d95.425"
   }
